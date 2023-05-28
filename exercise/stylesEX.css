@@ -20,10 +20,10 @@ a {
 
 ol {
   padding: 1.5rem 1.5rem 1.5rem 4em;
-  border: 0.3rem solid turquoise;
+  border: 0.3rem solid #00a8ff;
   columns: 25rem;
   column-gap: 7rem;
-  column-rule: 4px dotted turquoise;
+  column-rule: 4px dotted #00a8ff;
   border-radius: 0.5rem;
 }
 
