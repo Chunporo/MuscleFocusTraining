@@ -17,7 +17,7 @@ var basic_config = {
     },
     "basic_4":{//abdomen
         "hover": "BỤNG",
-        "url": "", "target": "_self",
+        "url": "exercise/core.html", "target": "_self",
         "active": true
     },
     "basic_5":{//pelvis
