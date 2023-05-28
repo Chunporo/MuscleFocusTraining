@@ -1,9 +1,9 @@
 var basic_config = {
     "basic_1":{//head
-        "hover": "ĐẦU",//info of the popup
-        "url": "",//link to any webpage
-        "target": "_self",// use "_blank", "_self", or "none"
-        "active": true//true/false to show/hide
+        "hover": "ĐẦU",
+        // "url": "",
+        // "target": "_self",
+        "active": true
     },
     "basic_2":{//neck
         "hover": "VAI",
@@ -21,8 +21,8 @@ var basic_config = {
         "active": true
     },
     "basic_5":{//pelvis
-        "hover": "PELVIS",
-        "url": "", "target": "_self",
+        "hover": "HÔNG",
+        "url": "exercise/pelvis.html", "target": "_self",
         "active": true
     },
     "basic_6":{//arm-rt
