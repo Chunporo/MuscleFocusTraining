@@ -26,23 +26,23 @@ var basic_config = {
         "active": true
     },
     "basic_6":{//arm-rt
-        "hover": "ARM [RT]",
-        "url": "https://www.humananatomyillustrations.com/", "target": "_self",
+        "hover": "TAY",
+        "url": "exercise/biceps.html", "target": "_self",
         "active": true
     },
     "basic_7":{//arm-lt
-        "hover": "ARM [LT]",
+        "hover": "TAY",
         "url": "https://www.humananatomyillustrations.com/", "target": "_self",
         "active": true
     },
     "basic_8":{//leg-rt
-        "hover": "LEG [RT]",
-        "url": "https://www.humananatomyillustrations.com/", "target": "_self",
+        "hover": "CHÂN",
+        "url": "exercise/leg.html", "target": "_self",
         "active": true
     },
     "basic_9":{//leg-lt
-        "hover": "LEG [LT]",
-        "url": "https://www.humananatomyillustrations.com/", "target": "_self",
+        "hover": "CHÂN",
+        "url": "exercise/leg.html", "target": "_self",
         "active": true
     }
 };
