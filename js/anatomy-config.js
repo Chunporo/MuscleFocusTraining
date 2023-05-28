@@ -1,13 +1,13 @@
 var basic_config = {
     "basic_1":{//head
         "hover": "ĐẦU",//info of the popup
-        //"url": "https://www.humananatomyillustrations.com/",//link to any webpage
+        "url": "",//link to any webpage
         "target": "_self",// use "_blank", "_self", or "none"
         "active": true//true/false to show/hide
     },
     "basic_2":{//neck
         "hover": "VAI",
-        "url": "https://www.humananatomyillustrations.com/", "target": "_self",
+        "url": "exercise/Shoulder.html", "target": "_self",
         "active": true
     },
     "basic_3":{//chest
@@ -17,32 +17,32 @@ var basic_config = {
     },
     "basic_4":{//abdomen
         "hover": "BỤNG",
-        "url": "https://www.humananatomyillustrations.com/", "target": "_self",
+        "url": "", "target": "_self",
         "active": true
     },
     "basic_5":{//pelvis
         "hover": "PELVIS",
-        "url": "https://www.humananatomyillustrations.com/", "target": "_self",
+        "url": "", "target": "_self",
         "active": true
     },
     "basic_6":{//arm-rt
         "hover": "TAY",
-        "url": "exercise/biceps.html", "target": "_self",
+        "url": "exercise/Biceps.html", "target": "_self",
         "active": true
     },
     "basic_7":{//arm-lt
         "hover": "TAY",
-        "url": "https://www.humananatomyillustrations.com/", "target": "_self",
+        "url": "exercise/Biceps.html", "target": "_self",
         "active": true
     },
     "basic_8":{//leg-rt
         "hover": "CHÂN",
-        "url": "exercise/leg.html", "target": "_self",
+        "url": "exercise/Leg.html", "target": "_self",
         "active": true
     },
     "basic_9":{//leg-lt
         "hover": "CHÂN",
-        "url": "exercise/leg.html", "target": "_self",
+        "url": "exercise/Leg.html", "target": "_self",  
         "active": true
     }
 };
